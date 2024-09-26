@@ -1,0 +1,220 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1300px;
+    margin-inline: auto;
+    font-family: "Roboto";
+}
+
+nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bmwcarsflex {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.carspunkt {
+    color: rgb(102, 102, 102);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
+
+.vector {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.linia {
+    width: 1300px;
+    height: 1px;
+    background: rgb(255, 255, 255);
+    margin-inline: auto;
+    margin-top: 15px;
+}
+
+.bmwVibor {
+    color: rgb(38, 38, 38);
+    font-size: 60px;
+    font-weight: 300;
+    line-height: 84px;
+    letter-spacing: 0%;
+}
+
+.name {
+    color: rgb(38, 38, 38);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    margin-left: 30px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 35px;
+}
+
+
+.cards2 {
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+    gap: 35px;
+}
+
+
+#card {
+    width: 300px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: none;
+    border-radius: 30px;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.opisanie {
+
+    color: rgb(77, 77, 77);
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0%;
+    margin-left: 30px;
+}
+
+.carssbmW {
+    transition-duration: 200ms;
+}
+
+#card:hover {
+    cursor: pointer;
+    border: 1px solid rgb(255, 255, 255);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+    .carssbmW {
+        transform: scale(1.2);
+    }
+}
+
+.bmwhr {
+    margin-top: 35px;
+}
+
+.konsept {
+    color: rgb(38, 38, 38);
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 38px;
+    letter-spacing: 0%;
+    margin-top: 35px;
+}
+
+.footosnova {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.flexFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.foota {
+    text-decoration: none;
+    color: rgb(38, 38, 38);
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0%;
+}
+
+.bmwAmg {
+    color: rgb(38, 38, 38);
+    font-size: 19px;
+    font-weight: 300;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+
+.footag {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.carspunkt {
+    background: linear-gradient(0deg, rgb(102, 102, 102), rgb(102, 102, 102)) no-repeat right bottom / 0 var(--bg-h);
+    transition: background-size 350ms;
+    --bg-h: 100%;
+}
+
+.carspunkt:where(:hover, :focus-visible) {
+    background-size: 100% var(--bg-h);
+    background-position-x: center;
+}
+
+.carspunkt {
+    padding-bottom: 2px;
+    --bg-h: 2px;
+}
+
+.carspunkt {
+    color: rgb(102, 102, 102);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
+
+
+a {
+    background: linear-gradient(0deg, rgb(102, 102, 102), rgb(102, 102, 102)) no-repeat right bottom / 0 var(--bg-h);
+    transition: background-size 350ms;
+    --bg-h: 100%;
+}
+
+.foota:where(:hover, :focus-visible) {
+    background-size: 100% var(--bg-h);
+    background-position-x: center;
+}
+
+.foota {
+    padding-bottom: 2px;
+    --bg-h: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    line-height: 1;
+}

@@ -1,0 +1,13 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_1_1140" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image1_114_0" transform="matrix(0.011111,0,0,0.011111,0,0)"/>
+		</pattern>
+		<image id="image1_114_0" width="90.000000" height="90.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAABHNCSVQICAgIfAhkiAAABO9JREFUeJzt209oHFUcB/Dv783uZmt2m6SYQqBgg2j/pAnBHmIvkoJ498/F4EG826btwT+nghf1KoqgBy8eSkXwVC9eCwFXbMqGdvEQ/9BUTdKpmwz7Z+Z9PbgLAcWm895kJ+X3gSWn9337vgyzmTczgFJKKaWUUkoppZRSSimllFJKKaWUyiPJeoKpqalDcRyPB0EwYq0dJXnQGPOYtXZYRIZJHiBZNsaUAQxZa4sASiJSBFDofQIAAUkjIqb3vUmSIpIAsCQTEYkBxCS7ItIF0AHQEZGWtbYlIi0RiUhuk9wOgqBprb0fBEGYJMm9mZmZ369evZpk0YP3oufn5wtra2svAngDwBzJMd9zZEVEOgBuAPiqVCp9dvPmzXvesn0FAcCJEyeesNZ+TfIZn7kDEgJYaDQa13yEBT5CAOD48eNPk1wi+aSvzAErA3h1fHz8l/X19R9dw4yHL4TLly8bkl+QfNxHXo4Ykh8dO3Zs0jXIyxF99+7dl0he8pGVQyUAIxsbG9+4hHg5oq21r/vIySsReWVmZmbYJcO56DNnzhwQkRdcc/KMZKXdbj/vkuFc9Obm5rMkS645eSciz7mMdy5aRE65ZuwHJJ3W6Vw0ySOuGfuB6zp9/BhOeMjIPRFxWqePosc9ZPyLiGwB+DOL7DRIjs3PzxfSjvdx6shqL2OtXC5PishbyEnhd+7cGU071sePYWabRsvLy9u3b9/+sF+4iKxnNdduBEGQeq0+jugR14wH6Rc+NDR0VETeHlTh1trUa/Vxji57yNiVXuEfBEEwOaDCh9IO9FH0nl+srKysbPULB/DOHhY+0KJTT+5qZWVlq9FovL+j8I0s5yM50KK9bEy52FH4UWRYeBAEqdc68JJ82lm4MebdrI/wh/FIFd1XrVYNyf5N3FxIfaWTR3NzcwfDMDwXhuHFvN0U9lE0MeAj5/Tp0yPNZvN8GIaLGRfMtAN9FN3BgP7zmJ2dHY2i6Hyz2VwEMEqm7mG3OmkH+ii6jT0uenZ2drTVai1GUbQIIPMr0z4Raacd61y0iHT24EgCAExPT491Op0LURSdwx4WvMPgigawBSDTxwx6j5VdaLfb5wAczHKu/9Pbuk3FuWiS9wAcdc35L1NTU4e63e6lOI7fJFnNYo6HEcdxmHasj1NHmMWpg+SROI5XAVT36tT0IJVKZXBFA8jq6utAXgruadVqtSjtYB9Xhn94yMg9EXFap4+i1zxk5B5Jp3X6uMPys2vGfiAiTut0LtoYs+SasR+QdFqnc9G3bt1qAPjNNSfvisXidy7jvWyTisiXPnJyrF6v12+4BHgpulAofN57/+NR9YlrgJei6/X6TwDe85GVNyJyfWFh4VPXHG/vsExPT19vNptjAOZ8ZQ6aiHxfLpdfvnLlyl+uWd6KXl1dtRsbG9cOHz68DOAp7OOHH0Vkyxjz8cTExGtLS0teXoHL7M7IyZMnp5IkmRORUyQnAYyTHBWRKoBhksPYw4dv+kSkS3IbwLaINEne7+3XbIrIryR/qFar39Zqtfte5/UZ9rBIytmzZ4fCMCzHcTyEfx7GKXU6naIxpigiRREpJklSMMYE1tr+30BEKCI2SRJrjEmMMYm1NibZLRQK3d4+eVdE2sVisRVFUatSqbRqtVp3kGtWSimllFJKKaWUUkoppZRSSimllNqlvwHxyPa3NTgkswAAAABJRU5ErkJggg=="/>
+	</defs>
+	<rect id="youtube-hover@2x.png.asset.1701168462412.png" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(0.500000 0.500000)" fill="url(#pattern_1_1140)" fill-opacity="1.000000"/>
+	<rect id="youtube-hover@2x.png.asset.1701168462412.png" rx="-0.500000" width="31.000000" height="31.000000" transform="translate(0.500000 0.500000)" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.000000"/>
+</svg>

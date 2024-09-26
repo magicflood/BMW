@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1300px;
+    margin-inline: auto;
+    font-family: "Roboto";
+}
+
+
+nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.navflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.bmwcarsflex {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.vector {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+
+.linia {
+    width: 1300px;
+    height: 1px;
+    background: rgb(255, 255, 255);
+    margin-inline: auto;
+    margin-top: 15px;
+}
+
+.electbmw {
+    width: 500px;
+    height: 300px;
+}
+.elctro{
+    color: rgb(102, 102, 102);
+}
+
+
+.carspunkt {
+    background: linear-gradient(0deg, rgb(102, 102, 102), rgb(102, 102, 102)) no-repeat right bottom / 0 var(--bg-h);
+    transition: background-size 350ms;
+    --bg-h: 100%;
+}
+
+.carspunkt:where(:hover, :focus-visible) {
+    background-size: 100% var(--bg-h);
+    background-position-x: center;
+}
+
+.carspunkt {
+    padding-bottom: 2px;
+    --bg-h: 2px;
+}
+
+.carspunkt {
+    color: rgb(102, 102, 102);
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-decoration: none;
+}
